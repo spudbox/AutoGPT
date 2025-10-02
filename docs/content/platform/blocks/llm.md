@@ -1,5 +1,7 @@
 # Large Language Model (LLM) Blocks
 
+> 📚 Want to wire OpenAI's ChatGPT Agent and Codex APIs into your own block? See the [ChatGPT + Codex integration guide](./chatgpt-codex.md) for a full SDK example you can adapt.
+
 ## AI Structured Response Generator
 
 ### What it is
